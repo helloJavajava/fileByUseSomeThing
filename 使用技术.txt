@@ -1,8 +1,8 @@
-1.javaÓïÑÔ
-2.MySQLÊı¾İ¿â
-3.»º´æ£¨redis¡¢MongoDB£©
+1.javaè¯­è¨€
+2.MySQLæ•°æ®åº“
+3.ç¼“å­˜ï¼ˆredisã€MongoDBï¼‰
 4.nginx
 5.shiro
-6.spring£¨ÓÃµ½µÄËùÓĞ£©
-7.£¨react/angular£©Ç°¶Ë
+6.springï¼ˆç”¨åˆ°çš„æ‰€æœ‰ï¼‰
+7.ï¼ˆreact/angularï¼‰å‰ç«¯
 8.linux
