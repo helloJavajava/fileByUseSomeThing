@@ -1,4 +1,4 @@
-1.java语言
+﻿1.java语言
 2.MySQL数据库
 3.缓存（redis、MongoDB）
 4.nginx
@@ -6,3 +6,5 @@
 6.spring（用到的所有）
 7.（react/angular）前端
 8.linux
+9.网络编程
+10.数据结构
