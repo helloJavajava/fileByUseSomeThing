@@ -1,0 +1,8 @@
+1.java语言
+2.MySQL数据库
+3.缓存（redis、MongoDB）
+4.nginx
+5.shiro
+6.spring（用到的所有）
+7.（react/angular）前端
+8.linux
